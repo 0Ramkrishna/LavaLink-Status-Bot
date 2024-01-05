@@ -1,0 +1,25 @@
+{
+
+  "token": "bot token",
+
+	"channel": "channel id",  
+  
+  "nodes": [
+  {
+
+      "host": "host-name",
+
+      "password": "galaxy4",
+
+      "port": 7902,
+
+      "retryDelay": 3000,
+
+      "identifier": "lavalink 1",
+
+      "secure": false
+
+    }
+  ]
+
+}
